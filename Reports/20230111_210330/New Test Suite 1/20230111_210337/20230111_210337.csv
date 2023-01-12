@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite 1,Firefox 108.0,,,2023-01-11 21:03:45,2023-01-11 21:04:06,21.449s,PASSED
+,,,,,,,
+Test Cases/New Test Case,Firefox 108.0,,,2023-01-11 21:03:45,2023-01-11 21:04:06,21.082s,PASSED
+"openBrowser("""")",Firefox 108.0,,,2023-01-11 21:03:46,2023-01-11 21:03:53,7.973s,PASSED
+"navigateToUrl(""https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"")",Firefox 108.0,,,2023-01-11 21:03:53,2023-01-11 21:03:59,5.033s,PASSED
+"setText(findTestObject(""Object Repository/Page_OrangeHRM/input_Username_username""), ""admin"")",Firefox 108.0,,,2023-01-11 21:03:59,2023-01-11 21:04:00,1.525s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_OrangeHRM/input_Password_password""), ""hUKwJTbofgPU9eVlw/CnDQ=="")",Firefox 108.0,,,2023-01-11 21:04:00,2023-01-11 21:04:01,0.536s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/button_Login""))",Firefox 108.0,,,2023-01-11 21:04:01,2023-01-11 21:04:03,2.006s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/p_Paul Collings""))",Firefox 108.0,,,2023-01-11 21:04:03,2023-01-11 21:04:05,1.994s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/a_Logout""))",Firefox 108.0,,,2023-01-11 21:04:05,2023-01-11 21:04:06,1.427s,PASSED
